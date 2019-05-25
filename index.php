@@ -48,25 +48,25 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0"><a href="index.html" class="text-black h2 mb-0"></a></h1>
+            <h1 class="mb-0"><a href="index.php" class="text-black h2 mb-0"></a></h1>
           </div>
           <div class="col-10 col-md-8 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
 
               <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                 <li class="active">
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
                 <li>
-                  <a href="gallary.html">Gallary</a>
+                  <a href="gallary.php">Gallary</a>
                  
                 </li>
                 
-                <li><a href="packages.html">Packages</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="packages.php">Packages</a></li>
+                <li><a href="about.php">About</a></li>
                
-                <li><a href="contact.html">Contact</a></li>
-                <!-- <li><a href="contact.html">Book Online</a></li> -->
+                <li><a href="contact.php">Contact</a></li>
+                <!-- <li><a href="contact.php">Book Online</a></li> -->
               </ul>
             </nav>
           </div>
@@ -112,7 +112,7 @@
 
               <h1 class="text-white font-weight-light">Welcome to Sri Lanka</h1>
               <p class="mb-5">The Wonder of Asia</p>
-              <p><a href="contact.html" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
+              <p><a href="contact.php" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
 
             </div>
           </div>
@@ -126,7 +126,7 @@
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
               <h1 class="text-white font-weight-light">Sri Lanka</h1>
               <p class="mb-5">Land like no other.</p>
-              <p><a href="contact.html" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
+              <p><a href="contact.php" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
             </div>
           </div>
         </div>
@@ -140,7 +140,7 @@
       <div class="container overlap-section">
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-              <a href="contact.html" class="unit-1 text-center">
+              <a href="contact.php" class="unit-1 text-center">
                 <img src="images/alla-tu.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Summit the Mountains</h3>
@@ -148,7 +148,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <a href="contact.html" class="unit-1 text-center">
+            <a href="contact.php" class="unit-1 text-center">
                 <img src="images/see.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Experience the Life in the Ocean</h3>
@@ -156,7 +156,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <a href="contact.html" class="unit-1 text-center">
+            <a href="contact.php" class="unit-1 text-center">
                 <img src="images/see-fishing.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <h3 class="unit-1-heading">Sunset at the Horizon</h3>
@@ -178,7 +178,7 @@
               <div>
                 <h3>Tour Packages</h3>
                 <p>Check out our exciting tour packages</p>
-                <p><a href="package.html">Packages</a></p>
+                <p><a href="package.php">Packages</a></p>
               </div>
             </div>
           </div>
@@ -188,7 +188,7 @@
               <div>
                 <h3>Hotel Accomadations</h3>
                 <p>Having a hard time finding hotels? We got you covered while you stay with us.</p>
-                <p><a href="contact.html">Contact Us</a></p>
+                <p><a href="contact.php">Contact Us</a></p>
               </div>
             </div>
           </div>
@@ -198,7 +198,7 @@
               <div>
                 <h3>Plan your stay</h3>
                 <p>Need help planning your stay with us? Send us a message</p>
-                <p><a href="contact.html">Contact Us</a></p>
+                <p><a href="contact.php">Contact Us</a></p>
               </div>
             </div>
           </div>
@@ -232,7 +232,7 @@
                   </div>
                   <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
                     <p class="text-black lead">&ldquo;You really won’t find a more helpful, honest , reliable and careful driver and guide to give you the very best of Sri Lanka. He will locate good accommodation and at excellent prices. Food located at great local venues as well as having eagle eyes to spot animals along the way. He was our guide for two weeks at end of September- October and he and his family have become great friends. A man you can trust with your life. Thank you Anura.;</p>
-                    <p class="">&mdash; <em>Yvonne Carne-Ross</em>, <a href="index.html">Visit Sri Lanka</a></p>
+                    <p class="">&mdash; <em>Yvonne Carne-Ross</em>, <a href="index.php">Visit Sri Lanka</a></p>
                   </div>
               </div>
             </div>
@@ -246,7 +246,7 @@
                   </div>
                   <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
                     <p class="text-black lead">&ldquo;We spent a day with Mohan Anura, in total over 6 hours. The car is comfortable and he is a careful driver (in Sri Lanka most drivers are crazy!). Mohan is knowledgeable and certainly added value to our trip. He also speaks very good English!;</p>
-                    <p class="">&mdash; <em>Lee Sproat</em>, <a href="index.html">Visit Sri Lanka</a></p>
+                    <p class="">&mdash; <em>Lee Sproat</em>, <a href="index.php">Visit Sri Lanka</a></p>
                   </div>
               </div>
             </div>
@@ -262,7 +262,7 @@
                   <p class="text-black lead">&ldquo;We have just spent 6 days travelling around Sri Lanka with Anura and he was fantastic. He has really made our trip special and nothing was a bother. There is no way we would have been able to visit all the sights we have without a driver. We can definitely recommend Anura. 
 Liz and Stephen Dickson
 Barwon Heads , Australia.;</p>
-                  <p class="">&mdash; <em>Liz Dickson</em>, <a href="index.html">Visit Sri Lanka</a></p>
+                  <p class="">&mdash; <em>Liz Dickson</em>, <a href="index.php">Visit Sri Lanka</a></p>
                 </div>
               </div>
             </div>
@@ -285,7 +285,7 @@ Barwon Heads , Australia.;</p>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-              <a href="packages.html" class="unit-1 text-center">
+              <a href="packages.php" class="unit-1 text-center">
                 <img src="images/Packages/beach-pack.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <strong class="text-primary mb-2 d-block">From $50 per day</strong>
@@ -294,7 +294,7 @@ Barwon Heads , Australia.;</p>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-              <a href="packages.html" class="unit-1 text-center">
+              <a href="packages.php" class="unit-1 text-center">
                 <img src="images/Packages/fun.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <strong class="text-primary mb-2 d-block">From $50 per day</strong>
@@ -303,7 +303,7 @@ Barwon Heads , Australia.;</p>
             </a>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-              <a href="contact.html" class="unit-1 text-center">
+              <a href="contact.php" class="unit-1 text-center">
               <img src="images/Packages/Alltrain.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                 <strong class="text-primary mb-2 d-block">Excrusions from Kandy</strong>
@@ -403,7 +403,7 @@ Barwon Heads , Australia.;</p>
         <div class="row text-center">
           <div class="col-md-12">
             <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="contact.html" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
+            <p class="mb-0"><a href="contact.php" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
           </div>
         </div>
       </div>
@@ -414,7 +414,7 @@ Barwon Heads , Australia.;</p>
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="mb-5">
-                                <h6 class="footer-heading mb-4">Visit Sri Lanka Travels and Tours</h6>
+                                <h6 class="footer-heading mb-4">Visit Sri Lanka Tours and Travels</h6>
                                 <p>Enjoy your holiday in Si Lanka with us.</p>
                             </div>
 
@@ -428,10 +428,10 @@ Barwon Heads , Australia.;</p>
                                 </div>
                                 <div class="col-md-6 col-lg-6">
                                     <ul class="list-unstyled">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="packages.html">Packages</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="packages.php">Packages</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-6">
@@ -439,7 +439,7 @@ Barwon Heads , Australia.;</p>
                                         <a href="https://www.tripadvisor.com">
                                             <img src="images/ads/tripad.png"  style="width:50%; height:30%;">
                                         </a>
-                                        <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
+                                        <a href="https://www.booking.com/index.php?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
                                             <img src="images/ads/booking-com.png"  style="width:50%; height:30%;">
                                         </a>
 

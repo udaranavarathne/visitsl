@@ -45,24 +45,24 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0"><a href="index.html" class="text-black h2 mb-0"></a></h1>
+            <h1 class="mb-0"><a href="index.php" class="text-black h2 mb-0"></a></h1>
           </div>
           <div class="col-10 col-md-8 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
 
               <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                 <li>
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
                 <li>
-                  <a href="gallary.html">Gallary</a>
+                  <a href="gallary.php">Gallary</a>
                  
                 </li>
                 
-                <li><a href="packages.html">Packages</a></li>
-                <li class="active"><a href="about.html">About</a></li> 
-                <li><a href="contact.html">Contact</a></li>
-                <!-- <li><a href="contact.html">Book Online</a></li> -->
+                <li><a href="packages.php">Packages</a></li>
+                <li class="active"><a href="about.php">About</a></li> 
+                <li><a href="contact.php">Contact</a></li>
+                <!-- <li><a href="contact.php">Book Online</a></li> -->
               </ul>
             </nav>
           </div>
@@ -103,7 +103,7 @@
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
               <h1 class="text-white font-weight-light">About Visit Sri Lanka</h1>
-              <div><a href="index.html">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">About</span></div>
+              <div><a href="index.php">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">About</span></div>
               
             </div>
           </div>
@@ -235,7 +235,7 @@ We provide,</p>
         <div class="row text-center">
           <div class="col-md-12">
             <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="contact.html" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
+            <p class="mb-0"><a href="contact.php" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
           </div>
         </div>
       </div>
@@ -260,10 +260,10 @@ We provide,</p>
                                 </div>
                                 <div class="col-md-6 col-lg-6">
                                     <ul class="list-unstyled">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="packages.html">Packages</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="packages.php">Packages</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-6">
@@ -271,7 +271,7 @@ We provide,</p>
                                         <a href="https://www.tripadvisor.com">
                                             <img src="images/ads/tripad.png"  style="width:50%; height:30%;">
                                         </a>
-                                        <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
+                                        <a href="https://www.booking.com/index.php?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
                                             <img src="images/ads/booking-com.png"  style="width:50%; height:30%;">
                                         </a>
 
