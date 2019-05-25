@@ -150,7 +150,7 @@
 
 
 
-                            <form action="#" class="p-5 bg-white">
+                            <form action="./" class="p-5 bg-white" method="POST">
 
 
                                 <div class="row form-group">
