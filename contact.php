@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
         
-        if(isset($_POST['click'])
+        if(isset($_POST['click']))
         {
             $first_name = $_POST[fname];
             $last_name= $_POST[lname];
@@ -12,7 +12,7 @@
             $error_msg = "";
 
             $from = "info@visitsrilankators&travels.com";
-            $header = "From:$email\r\n"
+            $header = "From:$email\r\n";
             $message = $first_name.' '.$last_name.'\r\n'.$msg;
             $mail = "mohananura1@gmail.com";
             
